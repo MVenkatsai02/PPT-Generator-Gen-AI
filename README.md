@@ -13,7 +13,7 @@ The **AI-Based Custom Slide Deck Generator** is a Streamlit web application that
 ## 🛠️ Installation & Setup
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/your-username/ai-slide-deck-generator.git
+git clone https://github.com/MVenkatsai02/PPT-Generator-Gen-AI
 cd ai-slide-deck-generator
 ```
 
