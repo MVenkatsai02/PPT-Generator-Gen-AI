@@ -1,0 +1,12 @@
+streamlit
+google-generativeai
+requests
+googlemaps
+python-pptx
+pillow
+python-docx
+PyPDF2
+pymupdf
+faiss-cpu
+sentence-transformers
+numpy
